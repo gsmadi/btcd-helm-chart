@@ -13,7 +13,7 @@ keywords:
     - crypto
 maintainers:
     - name: Gabriel Smadi
-      email: gabriel@smadi.ci
-      url: http://smadi.ci
+      email: gabriel@labs.smadi.ci
+      url: http://labs.smadi.ci
 sources:
     - https://github.com/btcsuite/btcd
